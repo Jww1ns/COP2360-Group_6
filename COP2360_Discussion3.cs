@@ -12,7 +12,7 @@ enum preferred_food
 class Bunny
 {
     public string Name;
-    public int Age = 5;
+    public int Age;
     public readonly int Legs = 4;
     public preferred_food Food;
 
